@@ -17,4 +17,4 @@ Ejemplo de chat creado con WebSockets, STOMP y ActiveMQ
 * Enjoy!
 
 ## Tutorial ##
-[WebSockets con STOMP y ActiveMQ: ¿chateamos?](http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=WebSocketsActiveMQ)
+[WebSockets con STOMP y ActiveMQ: ¿chateamos?](http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=WebSocketsStompActiveMQ)
